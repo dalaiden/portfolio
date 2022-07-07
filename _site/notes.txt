@@ -1,0 +1,4 @@
+# Notes
+
+rbenv global 3.1.2
+chruby ruby-3.1.2
