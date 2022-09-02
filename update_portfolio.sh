@@ -2,4 +2,4 @@
 
 git add .
 git commit -am "New edit"
-git push gh-pages
+git push origin gh-pages
