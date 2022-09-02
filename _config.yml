@@ -200,8 +200,10 @@ jekyll-archives:
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
 
+enable_responsive_images: false
+
 imagemagick:
-  enabled: true
+  enabled: false
   widths:
     - 480
     - 800
