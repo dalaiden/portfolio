@@ -8,7 +8,6 @@ nav_order: 2
 ---
 
 - Lyu Z., Goosse, H., **Dalaiden, Q.**, Crosta, X. and Etourneau, J., Widespread cooling over West Antarctica and adjacent seas over the past millennium, *Global and Planetary Change*, *In review* (2022).
-
 - **Dalaiden, Q.**, Schurer, A.P., Kirchmeier-Young, M.C., Goosse, H. and Hegerl, G., West Antarctic surface climate changes since the mid-20th century driven by anthropogenic forcing, *Geophysical Research Letters*, *In press* (2022).
 - Rezsöhazy, J., **Dalaiden, Q.**, Klein, F., Goosse, H., and Guiot, J. Using a process-based dendroclimatic proxy system model in a data assimilation framework: a test case in the Southern Hemisphere over the past centuries, *Climate of the Past*, *In revision* (2022).
 - Verfaillie, D., Pelletier, C., Goosse, H., Jourdain, N. C., Bull, C. Y. S., **Dalaiden, Q.**, Favier, V., Fichefet, T. and Wille, J. (2022). The circum-Antarctic ice-shelves respond to a more positive Southern Annular Mode with regionally varied melting, *Communications Earth & Environment*, 1, https://doi.org/10.1038/s43247-022-00458-x (2022).
