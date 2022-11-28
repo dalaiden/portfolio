@@ -1,13 +1,24 @@
 <!-- ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: 
+title: Antarctic Climate Indexes
+description: Antarctic Climate Indexes
 nav: true
 nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+![](hiking_portfolio.png)
 
-Organize your courses by years, topics, or universities, however you like!
- -->
+<div>
+<img src="hiking_portfolio.png" width="750" />
+</div>
+
+![](ano_tas_JAS_SH.png)
+![](ano_sst_SEASON_ID.png)
+![](ano_sst_JAS_SH.png)
+![](ano_psl_JAS.png)
+![](ano_psl_JAS_SH.png)
+![](ano_sic_JAS.png)
+![](ano_pr_JAS.png)
+
+<!-- ![](./ano_tas_JAS_SH.png) --> -->
