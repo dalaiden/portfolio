@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-![](assets/img/hiking_portfolio.png)
+![](/assets/img/hiking_portfolio.png)
 ![](plots/ano_tas_JAS_SH.png)
 <!-- ![](plots/ano_sst_SEASON_ID.png) -->
 ![](plots/ano_sst_JAS_SH.png)
