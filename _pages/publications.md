@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 - **Dalaiden, Q.**, Abram, N.J., Goosse, H., and Holland, P., Unravelling the factors driving West Antarctic atmospheric circulation changes over the 20th century: the role of tropical climate and human activities, *In preparation*
+- Fogt, R, **Dalaiden, Q.** and O'Connor, G.K., A Comparison of South Pacific Antarctic Sea Ice and Atmospheric Circulation Reconstructions Since 1900, *Climate of the Past*, *In review* (2023).
 - **Dalaiden, Q.**, Rezsöhazy, J., Goosse, H., Thomas, E.R., Vladimirova, D. O., and Tetzner, D., An unprecedented sea ice retreat in the Weddell Sea driving an overall decrease of the Antarctic sea ice extent over the 20th century, *Geophysical Research Letters*, *In revision* (2023).
 - Lyu Z., Goosse, H., **Dalaiden, Q.**, Crosta, X. and Etourneau, J., Widespread cooling over West Antarctica and adjacent seas over the past millennium, *Global and Planetary Change*, https://dx.doi.org/10.2139/ssrn.4305700 (2023).
 - **Dalaiden, Q.**, Schurer, A.P., Kirchmeier-Young, M.C., Goosse, H. and Hegerl, G., West Antarctic surface climate changes since the mid-20th century driven by anthropogenic forcing, *Geophysical Research Letters*, 49, e2022GL099543 (2022).
