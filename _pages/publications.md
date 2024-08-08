@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <div>
-<img src="{{site.url}}img/10.jpg" width="100%" height="100%"/>
+<img src="https://drive.google.com/file/d/1YDR2EUe6harUH4u90dAyUCehHDDa6joD/view?usp=drive_link" width="100%" height="100%"/>
 </div>
 
 - Lyu, A., Counillon, F., **Dalaiden, Q.**,  Benefit of online assimilation of coral data for ESM paleoreanalysis with NorCPM, *In preparation*.
