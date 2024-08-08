@@ -7,10 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div>
-<img src="{{ site.baseurl }}img/10.jpg" width="100%" height="100%"/>
-</div>
-
 - Lyu, A., Counillon, F., **Dalaiden, Q.**,  Benefit of online assimilation of coral data for ESM paleoreanalysis with NorCPM, *In preparation*.
 - **Dalaiden, Q.**, Abram, N.J., Goosse, H., and Holland, P., Unravelling the factors driving West Antarctic atmospheric circulation changes over the 20th century: the role of tropical climate and human activities, *In preparation*.
 - Sabourdy, M., Etourneau, J., Crosta, X., Antoniades, D., **Dalaiden, Q.**,  Rieger, N., Caley, T., Huguet, A., Sicre, M.-A., Toro, M., Oliva, M., Klein, V., Anquetil, C., Liboudan, E. Giralt, S. Escutia, C., SAM-to-ENSO switch 2,600 years ago controlled Northern Antarctic Peninsula air temperature variability, *Submitted to Nature Geosciences*.
