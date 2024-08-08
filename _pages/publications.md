@@ -7,8 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-<div>
-<img src="https://drive.google.com/file/d/1YDR2EUe6harUH4u90dAyUCehHDDa6joD/view?usp=drive_link" width="100%" height="100%"/>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 - Lyu, A., Counillon, F., **Dalaiden, Q.**,  Benefit of online assimilation of coral data for ESM paleoreanalysis with NorCPM, *In preparation*.
