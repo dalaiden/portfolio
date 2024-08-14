@@ -7,4 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-aaaa
+<video width="1000" height="700" controls loop="" muted = "" autoplay="">
+	<source src="https://github.com/dalaiden/portfolio/raw/gh-pages/assets/img/video_SIE_position_RAW.mp4">
+</video>
