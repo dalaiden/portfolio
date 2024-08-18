@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!--- Lyu, A., Counillon, F., **Dalaiden, Q.**,  Benefit of online assimilation of coral data for ESM paleoreanalysis with NorCPM, *In preparation*.-->
-- Goosse, H., **Dalaiden, Q.**, Francis, F., Mezzina, B. and Fogt R., The drop in Antarctic sea ice extent after 2016 similar to one at the end of the 1970s, *In review for publication in Communication Earth & Environment*.
+- Goosse, H., **Dalaiden, Q.**, Francis, F., Mezzinna, B. and Fogt R., The drop in Antarctic sea ice extent after 2016 similar to one at the end of the 1970s, *In review for publication in Communication Earth & Environment*.
 - Sabourdy, M., Etourneau, J., Crosta, X., Antoniades, D., **Dalaiden, Q.**,  Rieger, N., Caley, T., Huguet, A., Sicre, M.-A., Toro, M., Oliva, M., Klein, V., Anquetil, C., Liboudan, E. Giralt, S. Escutia, C., SAM-to-ENSO switch 2,600 years ago controlled Northern Antarctic Peninsula air temperature variability, *In review for publication in Nature Geosciences*.
 - **Dalaiden, Q.**, Abram, N.J., Goosse, H., Holland, P., O’Connor G.K. and Topál, D., Multi-Decadal Variability of Amundsen Sea Low Controlled by Natural Tropical and Anthropogenic Drivers, *Geophysical Research Letters*, [https://doi.org/10.1029/2024GL109137](https://doi.org/10.1029/2024GL109137) (2024).
 - Fogt, R, **Dalaiden, Q.** and O'Connor, G.K., A Comparison of South Pacific Antarctic Sea Ice and Atmospheric Circulation Reconstructions Since 1900, *Climate of the Past*, 20, 53–76, [https://doi.org/10.5194/cp-20-53-2024](https://doi.org/10.5194/cp-20-53-2024) (2023).
