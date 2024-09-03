@@ -10,6 +10,8 @@ horizontal: false
 
 # Antarctic climate reconstructions
 
+## Paleo-based reconstructions
+
 <div>
 <img src="assets/img/fig_rec.jpg" width="770" />
 </div>
