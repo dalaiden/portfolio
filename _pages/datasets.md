@@ -10,9 +10,9 @@ horizontal: false
 
 # Antarctic climate reconstructions
 
-&nbsp;
+<!-- &nbsp;
 
-## Paleo-based reconstructions
+## Paleo-based reconstructions -->
 
 <div>
 <img src="assets/img/fig_rec.jpg" width="770" />
