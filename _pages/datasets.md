@@ -25,7 +25,7 @@ horizontal: false
    - **Available on Zenodo**: [https://zenodo.org/record/7966208](https://zenodo.org/record/7966208)
 - Reconstruction of unforced variability from [Dalaiden et al., 2024](https://doi.org/10.1029/2024GL109137)
    - *Short description*: This reconstruction uses ice core and coral records to provide historical changes for the **unforced** (i.e., without the influence of anthropogenic forcing) climate variability in the Southern Hemisphere and tropical regions
-   **Available on Zenodo**: [https://zenodo.org/records/13772069](https://zenodo.org/records/13772069)
+   - **Available on Zenodo**: [https://zenodo.org/records/13772069](https://zenodo.org/records/13772069)
 - Original reconstruction from [Dalaiden et al., 2021](https://link.springer.com/article/10.1007/s00382-021-05879-6) 
    - *Short description*: This reconstruction is based on a data assimilation method integrating water isotopic and snow accumulation from Antarctic ice cores in addition to Southern Hemisphere tree-ring width records
    - **Available on Zenodo**: [https://zenodo.org/records/4770179](https://zenodo.org/records/4770179)
