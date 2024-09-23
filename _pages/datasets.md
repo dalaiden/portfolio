@@ -36,7 +36,7 @@ horizontal: false
 
 ## Station-based reconstructions
 
-<video width="750" height="700" controls loop="" muted = "" autoplay="">
+<video width="750" height="300" controls loop="" muted = "" autoplay="">
    <source src="https://github.com/dalaiden/portfolio/raw/gh-pages/assets/img/video_station-based_sic_recon.mp4">
 </video>
 

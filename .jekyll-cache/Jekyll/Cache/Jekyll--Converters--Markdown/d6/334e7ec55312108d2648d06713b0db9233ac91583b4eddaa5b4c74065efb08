@@ -1,6 +1,11 @@
-I"q<h1 id="antarctic-climate-reconstructions">Antarctic climate reconstructions</h1>
+I"�
+<h1 id="antarctic-climate-reconstructions">Antarctic climate reconstructions</h1>
+
+<p> </p>
 
 <h2 id="paleo-based-reconstructions">Paleo-based reconstructions</h2>
+
+<p> </p>
 
 <div>
 <img src="assets/img/fig_rec.jpg" width="770" />
@@ -28,4 +33,16 @@
     </ul>
   </li>
 </ul>
+
+<p> </p>
+
+<h2 id="station-based-reconstructions">Station-based reconstructions</h2>
+
+<video width="750" height="300" controls="" loop="" muted="" autoplay="">
+   <source src="https://github.com/dalaiden/portfolio/raw/gh-pages/assets/img/video_station-based_sic_recon.mp4" />
+</video>
+
+<p>This reconstruction is the result of a combination of long-term station-based air temperature and pressure records from the Antarctic Ice Sheet and mid-latitudes regions of the Southern Ocean and the physics of an Earth System Model to provide historical climate changes in the high-latitudes region of the Southern Hemisphere from 1958. <strong>This reconstruction is available on Zenodo</strong>: <a href="https://zenodo.org/records/13828875">https://zenodo.org/records/13828875</a></p>
+
+<p> </p>
 :ET
