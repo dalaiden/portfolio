@@ -1,10 +1,6 @@
-I"m<h1 id="antarctic-climate-reconstructions">Antarctic climate reconstructions</h1>
+I"q<h1 id="antarctic-climate-reconstructions">Antarctic climate reconstructions</h1>
 
-<p><a href="dalaiden/portfolio/blob/master/coding_linux.md">README</a></p>
-
-<!-- &nbsp;
-
-## Paleo-based reconstructions -->
+<h2 id="paleo-based-reconstructions">Paleo-based reconstructions</h2>
 
 <div>
 <img src="assets/img/fig_rec.jpg" width="770" />
@@ -19,10 +15,16 @@
       <li><strong>Available on Zenodo</strong>: <a href="https://zenodo.org/record/7966208">https://zenodo.org/record/7966208</a></li>
     </ul>
   </li>
+  <li>Reconstruction of unforced variability from <a href="https://doi.org/10.1029/2024GL109137">Dalaiden et al., 2024</a>
+    <ul>
+      <li><em>Short description</em>: This reconstruction uses ice core and coral records to provide historical changes for the <strong>unforced</strong> (i.e., without the influence of anthropogenic forcing) climate variability in the Southern Hemisphere and tropical regions</li>
+      <li><strong>Available on Zenodo</strong>: <a href="https://zenodo.org/records/13772069">https://zenodo.org/records/13772069</a></li>
+    </ul>
+  </li>
   <li>Original reconstruction from <a href="https://link.springer.com/article/10.1007/s00382-021-05879-6">Dalaiden et al., 2021</a>
     <ul>
       <li><em>Short description</em>: This reconstruction is based on a data assimilation method integrating water isotopic and snow accumulation from Antarctic ice cores in addition to Southern Hemisphere tree-ring width records</li>
-      <li><strong>Available on Zenodo</strong>:  <a href="https://zenodo.org/records/4770179">https://zenodo.org/records/4770179</a></li>
+      <li><strong>Available on Zenodo</strong>: <a href="https://zenodo.org/records/4770179">https://zenodo.org/records/4770179</a></li>
     </ul>
   </li>
 </ul>

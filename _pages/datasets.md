@@ -10,9 +10,11 @@ horizontal: false
 
 # Antarctic climate reconstructions
 
-<!-- &nbsp;
+&nbsp;
 
-## Paleo-based reconstructions -->
+## Paleo-based reconstructions
+
+&nbsp;
 
 <div>
 <img src="assets/img/fig_rec.jpg" width="770" />
@@ -29,3 +31,16 @@ horizontal: false
 - Original reconstruction from [Dalaiden et al., 2021](https://link.springer.com/article/10.1007/s00382-021-05879-6) 
    - *Short description*: This reconstruction is based on a data assimilation method integrating water isotopic and snow accumulation from Antarctic ice cores in addition to Southern Hemisphere tree-ring width records
    - **Available on Zenodo**: [https://zenodo.org/records/4770179](https://zenodo.org/records/4770179)
+
+&nbsp;
+
+## Station-based reconstructions
+
+<video width="750" height="700" controls loop="" muted = "" autoplay="">
+   <source src="https://github.com/dalaiden/portfolio/raw/gh-pages/assets/img/video_station-based_sic_recon.mp4">
+</video>
+
+This reconstruction is the result of a combination of long-term station-based air temperature and pressure records from the Antarctic Ice Sheet and mid-latitudes regions of the Southern Ocean and the physics of an Earth System Model to provide historical climate changes in the high-latitudes region of the Southern Hemisphere from 1958. **This reconstruction is available on Zenodo**: [https://zenodo.org/records/13828875](https://zenodo.org/records/13828875)
+
+
+&nbsp;
