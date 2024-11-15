@@ -1,6 +1,6 @@
 ---
-layout: About
-title: About
+layout: about
+title: about
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -31,7 +31,7 @@ Previously, I worked on Arctic sea-ice changes through driftwood supply records 
 
 In my free time, I love practising outdoor endurance activities (cycling, triathlon, running, mountain hiking) including long-distance international competitions with a national title in triathlon.
 
-e-mail: [quentin.dalaiden@uclouvain.be](mailto:quentin.dalaiden@uclouvain.be)
+e-mail: [quentin.dalaiden@nersc.no](mailto:quentin.dalaiden@nersc.no)
 
 <div>
 <img src="assets/img/hiking_portfolio.png" width="750" />
