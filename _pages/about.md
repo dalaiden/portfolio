@@ -1,12 +1,12 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: QuentinDalaiden_git.jpg
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -17,9 +17,9 @@ selected_papers: false # true # includes a list of papers marked as "selected={t
 social: false # true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Postdoctoral Fellow at the Earth and Life Institute, UCLouvain, Belgium.
+I am currently a Marie-Curie Postdoctoral Fellowship at the Nansen Center Nansen Environmental and Remote Sensing Center (NERSC), Bergen, Norway.
 
-My main research topic focuses on the understanding of the historical climate changes, with particular attention to the Antarctic region. For doing so, my research relies on various sources of information, from paleoclimate records (e.g., ice cores, tree rings, corals, etc) to climate model simulations. I combine them using a data assimilation method that makes use of the maximum potential of observations and the physics of the climate to provide a complete reconstruction of the climate state over the present and past.
+My main research topic focuses on the understanding of the historical climate changes, with particular attention to the contribution of natural variability to the observed changes. For doing so, my research relies on various sources of information, from paleoclimate records (e.g., ice cores, tree rings, corals, etc) to climate model simulations. I combine them using a data assimilation method that makes use of the maximum potential of observations and the physics of the climate to provide a complete reconstruction of the climate state over the present and past.
 
 <!---
 
