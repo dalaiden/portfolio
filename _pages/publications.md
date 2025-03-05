@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- Da Re, D., Gilson, G., **Dalaiden, Q.**, Goosse, H., Bødker, R., Jung K. L., Rosà, R., Ogden, N. and Vanwambeke, S., Northward expansion of the thermal limit for the tick Ixodes ricinus over the past 40 years, *In review for publication in Global Ecology and Biogeography*.
 - Cavitte, M. G. P., Goosse, H., **Dalaiden, Q.**, and Ghilain, N., Brief Communication: annual large-scale atmospheric circulation reconstructed from a data assimilation framework cannot explain local East Antarctic ice rises’ surface mass balance records, *In review for publication in The Cryosphere*.
 - Sabourdy, M., Etourneau, J., Crosta, X., Antoniades, D., **Dalaiden, Q.**,  Rieger, N., Caley, T., Huguet, A., Sicre, M.-A., Toro, M., Oliva, M., Klein, V., Anquetil, C., Liboudan, E. Giralt, S. Escutia, C., SAM-to-ENSO switch 2,600 years ago controlled Northern Antarctic Peninsula air temperature variability, *In review for publication in Nature Geosciences*.
 - Goosse, H., **Dalaiden, Q.**, Francis, F., Mezzinna, B. and Fogt R., A drop in Antarctic sea ice extent at the end of the 1970s. *Communications Earth & Environment*, 5, 628, [https://doi.org/10.1038/s43247-024-01793-x](https://doi.org/10.1038/s43247-024-01793-x) (2024)
