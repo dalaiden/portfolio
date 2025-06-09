@@ -8,7 +8,7 @@ horizontal: false
 ---
 
 <div>
-<img src="/assets/img/code.jpg" width="770" />
+<img src="{{ '/assets/img/code.jpg' | relative_url }}" width="770" />
 </div>
 
 &nbsp;
