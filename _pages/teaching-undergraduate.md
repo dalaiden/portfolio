@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Undergraduate Courses"
-permalink: /teaching/undergraduate/
+permalink: /code/undergraduate/
 ---
 
 Details about your undergraduate teaching here...
