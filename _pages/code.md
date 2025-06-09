@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code
-permalink: code/
+permalink: /code
 nav: true
 nav_order: 4
 horizontal: false
