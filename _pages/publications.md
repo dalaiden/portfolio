@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- **Dalaiden, Q.**, Goosse, H., Holland P.R. and Barthélemy, A., Dynamical reconstruction of Southern Ocean and Antarctic climate variability since 1700, *Submited to Scientific Data*.
 - Okazaki, A.i, Carrio, D, **Dalaiden, Q.**, Harrison-Lofthouse, J., Kotsuki, S. and Yoshimura, K., Observation error estimation in climate proxies with data assimilation and innovation statistics, *In review for publication in Climate of the Past*.
 - Da Re, D., Gilson, G., **Dalaiden, Q.**, Goosse, H., Bødker, R., Jung K. L., Rosà, R., Ogden, N. and Vanwambeke, S., Northward expansion of the thermal limit for the tick Ixodes ricinus over the past 40 years, *In review for publication in Global Ecology and Biogeography*.
 - Wauthy, S. and **Dalaiden, Q.**, Role of precipitation and extreme precipitation events in the surface mass balance variability observed in three ice cores from coastal Dronning Maud Land, *In review for publication in The Cryosphere*.
