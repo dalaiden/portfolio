@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: QuentinDalaiden_git.jpg
+  image: QuentinDalaiden_git.png
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -17,9 +17,11 @@ selected_papers: false # true # includes a list of papers marked as "selected={t
 social: false # true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Marie-Curie Postdoctoral Fellowship at the Nansen Center Nansen Environmental and Remote Sensing Center (NERSC), Bergen, Norway.
+I am currently a Marie Skłodowska-Curie Fellowship at the Nansen Center Nansen Environmental and Remote Sensing Center (NERSC), Bergen, Norway.
 
-My main research topic focuses on the understanding of the historical climate changes, with particular attention to the contribution of natural variability to the observed changes. For doing so, my research relies on various sources of information, from paleoclimate records (e.g., ice cores, tree rings, corals, etc) to climate model simulations. I combine them using a data assimilation method that makes use of the maximum potential of observations and the physics of the climate to provide a complete reconstruction of the climate state over the present and past.
+My main research topic focuses on the understanding of the historical climate changes. For doing so, my research relies on various sources of information, from paleoclimate records (e.g., ice cores, tree rings, corals, etc) to climate model simulations. I combine them using **data assimilation methods** that makes use of the maximum potential of observations and the physics of the climate to provide a complete reconstruction of the climate state over the present and past.
+
+**The main goal of my work is to quantify the contributions of both natural and human-induced variability to observed climate changes, with a particular focus on multi-decadal variability and the polar regions**. In addition to using data assimilation methods, I also perform **simulations with Earth system models**, including ocean models.
 
 <!---
 
@@ -29,12 +31,12 @@ Previously, I worked on Arctic sea-ice changes through driftwood supply records 
 
 -->
 
-In my free time, I love practising outdoor endurance activities (cycling, triathlon, running, mountain hiking) including long-distance international competitions with a national title in triathlon.
+In my free time, I love practising outdoor endurance activities (cycling, triathlon, running, mountain hiking) and reading books on society.
 
 e-mail: [quentin.dalaiden@nersc.no](mailto:quentin.dalaiden@nersc.no)
 
 <div>
-<img src="assets/img/hiking_portfolio.png" width="750" />
+<img src="assets/img/hiking_portfolio.jpg" width="750" />
 </div>
 
 <!-- Write your biography here... Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
