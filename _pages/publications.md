@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- Sai Prabala, S. C., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere". 
+- Swetha Chittella, S. P., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere". 
 - Topal, D., Fichefet, T., **Dalaiden, Q.**, Goosse, H., Massonnet, F. and Blanchard-Wrigglesworth, E., Tropical-extratropical interactions modulate Antarctic sea ice trends via enhanced atmospheric waviness, *In review for publication in Nature Communications*.
 - **Dalaiden, Q.**, Goosse, H., Holland P.R. and Barthélemy, A., Dynamical reconstruction of Southern Ocean and Antarctic climate variability since 1700, *In review for publication in Scientific Data*.
 - Okazaki, A.i, Carrio, D, **Dalaiden, Q.**, Harrison-Lofthouse, J., Kotsuki, S. and Yoshimura, K., Observation error estimation in climate proxies with data assimilation and innovation statistics, *In review for publication in Climate of the Past*.
