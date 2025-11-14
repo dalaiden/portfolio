@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- **Dalaiden, Q.** and Bethke, I. Brief communication: Uncertainties in Southern Ocean sea surface conditions and their impact on Antarctic climate over 1958–1978, *Submitted for publication in The Cryosphere*.
 - Xue, H., Goosse, H., **Dalaiden, Q.**, Seftigen, K., Gennaretti, F. and Shi, F., Scandinavian pattern and temperature changes shape European summer droughts over the past millennium, *In review for publication in Nature Communnications*.
 - Swetha Chittella, S. P., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere*. 
 - Topal, D., Fichefet, T., **Dalaiden, Q.**, Goosse, H., Massonnet, F. and Blanchard-Wrigglesworth, E., Tropical-extratropical interactions modulate Antarctic sea ice trends via enhanced atmospheric waviness, *In review for publication in Nature Communications*.
