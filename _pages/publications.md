@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- **Dalaiden, Q.**, Counillon, F., Svendsen, L., Bethke, N., Keenlyside, N., Paleo-NorCPM: A framework toward fully coupled ocean-atmosphere paleoclimate reanalysis over the past centuries, *Submitted for publication in Earth System Science Data*. 
 - Swetha Chittella, S. P., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere*. 
 - Topal, D., Fichefet, T., **Dalaiden, Q.**, Goosse, H., Massonnet, F. and Blanchard-Wrigglesworth, E., Tropical-extratropical interactions modulate Antarctic sea ice trends via enhanced atmospheric waviness, *In review for publication in Nature Communications*.
 - Sabourdy, M., Etourneau, J., Crosta, X., Antoniades, D., **Dalaiden, Q.**,  Rieger, N., Caley, T., Huguet, A., Sicre, M.-A., Toro, M., Oliva, M., Klein, V., Anquetil, C., Liboudan, E. Giralt, S. Escutia, C., SAM-to-ENSO switch 2,600 years ago controlled Northern Antarctic Peninsula air temperature variability, *In revision for publication in Nature Geosciences*.
