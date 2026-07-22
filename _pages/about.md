@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: QuentinDalaiden_git.png
+  image: QuentinDalaiden_git_old2.png
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
