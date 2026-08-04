@@ -7,11 +7,11 @@ nav: true
 nav_order: 2
 ---
 
+- Lyu, Z., Cheung, A., Bao, Y., Shi, F., Zhang, H., Tian, Z., Zhao, S., Smerdon, J., Konecky, B., Pausata, F., Hopcroft, P., Zhu, J., **Dalaiden, Q.**, Yin, Q., Wu, Z., Dallmeyer, A., Tiwari, S., Falster, G., LeGrande, A. N., Wen, Q., Vuille, M., A mid-Holocene maximum in the Pacific Walker circulation, *Submitted for publication in Nature*.
 - **Dalaiden, Q.**, Counillon, F., Svendsen, L., Bethke, N., Keenlyside, N., Paleo-NorCPM: A framework toward fully coupled ocean-atmosphere paleoclimate reanalysis over the past centuries, *Submitted for publication in Earth System Science Data*. 
 - Swetha Chittella, S. P., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere*. 
 - Topal, D., Fichefet, T., **Dalaiden, Q.**, Goosse, H., Massonnet, F. and Blanchard-Wrigglesworth, E., Tropical-extratropical interactions modulate Antarctic sea ice trends via enhanced atmospheric waviness, *In review for publication in Nature Communications*.
 - Sabourdy, M., Etourneau, J., Crosta, X., Antoniades, D., **Dalaiden, Q.**,  Rieger, N., Caley, T., Huguet, A., Sicre, M.-A., Toro, M., Oliva, M., Klein, V., Anquetil, C., Liboudan, E. Giralt, S. Escutia, C., SAM-to-ENSO switch 2,600 years ago controlled Northern Antarctic Peninsula air temperature variability, *In revision for publication in Nature Geosciences*.
-
 - Xue, H., Goosse, H., **Dalaiden, Q.**, Seftigen, K., Gennaretti, F. and Shi, F., Scandinavian pattern and temperature changes shape European summer droughts over the past millennium, *Nature Communications*, [https://doi.org/10.1038/s41467-026-72385-w](https://doi.org/10.1038/s41467-026-72385-w) (2026).
 - **Dalaiden, Q.** and Bethke, I., Brief communication: Uncertainties in Southern Ocean sea surface conditions and their impact on Antarctic climate over 1958–1978, *The Cryosphere*, 20, 2089–2098, [https://doi.org/10.5194/tc-20-2089-2026](https://doi.org/10.5194/tc-20-2089-2026) (2026).
 - Wauthy, S. and **Dalaiden, Q.**, Role of precipitation and extreme precipitation events in the surface mass balance variability observed in three ice cores from coastal Dronning Maud Land, *The Cryosphere*, 20, 1279-1296, [https://doi.org/10.5194/tc-20-1279-2026](https://doi.org/10.5194/tc-20-1279-2026) (2026).
