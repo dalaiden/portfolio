@@ -1,4 +1,4 @@
----
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/178f795d-4431-4395-893f-5031f91dadca" />---
 layout: page
 permalink: /publications
 title: Publications
@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+- Xue, H., Gennaretti, F., Goosse, H., Lemay, M.-A., **Dalaiden, Q.** and Shi, F., A last-millennium perspective on the relationship between boreal forest productivity and tree growth, *Submitted for publication in Global Change Biology*.
 - Lyu, Z., Cheung, A., Bao, Y., Shi, F., Zhang, H., Tian, Z., Zhao, S., Smerdon, J., Konecky, B., Pausata, F., Hopcroft, P., Zhu, J., **Dalaiden, Q.**, Yin, Q., Wu, Z., Dallmeyer, A., Tiwari, S., Falster, G., LeGrande, A. N., Wen, Q., Vuille, M., A mid-Holocene maximum in the Pacific Walker circulation, *Submitted for publication in Nature*.
 - **Dalaiden, Q.**, Counillon, F., Svendsen, L., Bethke, N., Keenlyside, N., Paleo-NorCPM: A framework toward fully coupled ocean-atmosphere paleoclimate reanalysis over the past centuries, *Submitted for publication in Earth System Science Data*. 
 - Swetha Chittella, S. P., Orr, A., Deb, P. and **Dalaiden, Q.**, Recent intensification of extreme precipitation over Antarctica driven by increases in greenhouse gases, *In review for publication in The Cryosphere*. 
